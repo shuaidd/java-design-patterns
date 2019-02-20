@@ -12,7 +12,7 @@ tags:
 ## Intent
 Using empty interfaces as markers to distinguish special treated objects.
 
-![alt text](./etc/MarkerDiagram.png "Marker Interface")
+![sdsd text](./etc/MarkerDiagram.png "Marker Interface")
 
 ## Applicability
 Use the Marker Interface pattern when

@@ -1,6 +1,6 @@
 ---
 layout: pattern
-title: Flyweight
+title: Flyweight[享元模式]
 folder: flyweight
 permalink: /patterns/flyweight/
 categories: Structural
@@ -14,6 +14,7 @@ tags:
 ## Intent
 Use sharing to support large numbers of fine-grained objects
 efficiently.
+使用共享可以有效地支持大量细粒度对象。
 
 ## Explanation
 Real world example
